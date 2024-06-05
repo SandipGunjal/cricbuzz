@@ -1,0 +1,516 @@
+{
+  "livescore": [
+    {
+      "id": "1",
+      "match": "India vs England",
+      "venue": "21th match , Wankhede Stadium Mumbai",
+      "team1": "IND",
+      "score1": "345/6",
+      "team2": "ENG",
+      "score2": "276/4",
+      "toss": "India has won the toss and elected to bat first",
+      "result": "India won by 56 runs"
+    },
+    {
+      "id": "2",
+      "match": "Pakistan vs Australia",
+      "venue": "22th match , Delhi-Arun Jaitley Stadium.",
+      "team1": "PAK",
+      "score1": "215/2",
+      "team2": "AUS",
+      "score2": "134/10",
+      "toss": "Pakistan has won the toss and elected to bat first",
+      "result": "Pakistan won by 8 wkts"
+    },
+    {
+      "id": "3",
+      "match": "New Zealand vs India",
+      "venue": "23th match ,Rajiv Gandhi International Stadium.",
+      "team1": "NZ",
+      "score1": "413/5",
+      "team2": "IND",
+      "score2": "415/3",
+      "toss": "India has won the toss and elected to field first",
+      "result": "India won by 7 wkts"
+    },
+    {
+      "id": "4",
+      "match": "Sri Lanka vs West Indies",
+      "venue": "24th match , Ahmadabad-Narendra Modi Stadium.",
+      "team1": "SRI",
+      "score1": "299/8",
+      "team2": "WI",
+      "score2": "345/7",
+      "toss": "West Indies has won the toss and elected to field first",
+      "result": "West Indies won by 2 wkts"
+    },
+    {
+      "id": "5",
+      "match": "India vs Pakistan",
+      "venue": "25th match , Bangalore-M. Chinnaswamy Stadium.",
+      "team1": "IND",
+      "score1": "356/2",
+      "team2": "PAK",
+      "score2": "230/10",
+      "toss": "Pakistan has won the toss and elected to filed first",
+      "result": "India won by 116 runs"
+    }
+  ],
+  "players": [
+    {
+      "id": "1",
+      "photo": "https://admin.thecricketer.com/weblab/Sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/sharmaheadshot-min.jpg",
+      "name": "Rohit Sharma",
+      "role": "batter",
+      "age": 23,
+      "totalRun": 3567,
+      "totalMatch": 45
+    },
+    {
+      "id": "2",
+      "name": "Virat Kohli",
+      "role": "batter",
+      "totalRun": 4567,
+      "totalMatch": 52,
+      "photo": "https://admin.thecricketer.com/weblab/Sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/kohliheadshot-min.jpg"
+    },
+    {
+      "id": "3",
+      "photo": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/suryakumar-yadav.png",
+      "name": "Suryakumar Yadhav",
+      "role": "batter",
+      "age": 21,
+      "totalRun": 3801,
+      "totalMatch": 29
+    },
+    {
+      "id": "5",
+      "name": "Jasprit Bumrah",
+      "role": "Bowler",
+      "totalRun": 1201,
+      "totalMatch": 45,
+      "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+      "totalWickets": 201
+    },
+    {
+      "id": "6",
+      "name": "Glenn Maxwell",
+      "role": "All Rounder",
+      "totalRun": 3567,
+      "totalMatch": 50,
+      "photo": "https://admin.thecricketer.com/weblab/Sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/maxwellheadshot-min.jpg",
+      "totalWickets": 51
+    },
+    {
+      "id": "7",
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319748.png",
+      "name": "Ben Stokes",
+      "role": "batter",
+      "age": 23,
+      "totalRun": 3761,
+      "totalMatch": 39
+    },
+    {
+      "id": "8",
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320107.png",
+      "name": "Kieron Pollard",
+      "role": "batter",
+      "age": 29,
+      "totalRun": 5233,
+      "totalMatch": 57
+    },
+    {
+      "id": "9",
+      "name": "Rishabh Pant",
+      "role": "Wicket-Kipper",
+      "totalRun": 6201,
+      "totalMatch": 75,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323036.png",
+      "totalWickets": null
+    },
+    {
+      "id": "eeef",
+      "name": "MS Dhoni",
+      "role": "Batter",
+      "totalRun": 2057,
+      "totalMatch": 54,
+      "photo": "https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg"
+    },
+    {
+      "id": "bdd0",
+      "name": "Trent Boult",
+      "role": "Bowler",
+      "totalRun": 2078,
+      "totalMatch": 201,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316619.png",
+      "totalWickets": 67
+    },
+    {
+      "id": "32e6",
+      "name": "Hardik Pandya",
+      "role": "All Rounder",
+      "totalRun": 3000,
+      "totalMatch": 45,
+      "photo": "https://documents.iplt20.com/ipl/IPLHeadshot2024/54.png",
+      "totalWickets": 27
+    }
+  ],
+  "pointTable": [
+    {
+      "id": "1",
+      "logo": "https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg",
+      "country": "INDIA",
+      "matches": 10,
+      "won": 9,
+      "lost": 1,
+      "nrr": "+1.09",
+      "points": 18,
+      "rp": "L",
+      "results": [
+        "win",
+        "win",
+        "win",
+        "win",
+        "win"
+      ]
+    },
+    {
+      "id": "2",
+      "logo": "https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg",
+      "country": "AUS",
+      "matches": 9,
+      "won": 7,
+      "lost": 2,
+      "nrr": "+0.12",
+      "points": 14,
+      "rp": "W",
+      "results": [
+        "win",
+        "lose",
+        "win",
+        "win",
+        "win"
+      ]
+    },
+    {
+      "id": "3",
+      "logo": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg",
+      "country": "SA",
+      "matches": 10,
+      "won": 8,
+      "lost": 2,
+      "nrr": "+0.78",
+      "points": 16,
+      "results": [
+        "win",
+        "win",
+        "lose",
+        "win",
+        "lose"
+      ]
+    },
+    {
+      "id": "5",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "country": "PAK",
+      "matches": 10,
+      "won": 6,
+      "lost": 4,
+      "nrr": "-0.199",
+      "points": 12,
+      "results": [
+        "win",
+        "lose",
+        "win",
+        "lose",
+        "win"
+      ]
+    },
+    {
+      "id": "6",
+      "logo": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+      "country": "AFG",
+      "matches": 10,
+      "won": 6,
+      "lost": 4,
+      "nrr": "+0.23",
+      "points": 12,
+      "results": [
+        "lose",
+        "lose",
+        "win",
+        "win",
+        "win"
+      ]
+    },
+    {
+      "id": "7",
+      "logo": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+      "country": "ENG",
+      "matches": 9,
+      "won": 5,
+      "lost": 4,
+      "nrr": "+1.09",
+      "points": 10,
+      "results": [
+        "win",
+        "lose",
+        "win",
+        "lose",
+        "win"
+      ]
+    },
+    {
+      "id": "8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2000px-Flag_of_Bangladesh.svg.png",
+      "country": "BAN",
+      "matches": 9,
+      "won": 4,
+      "lost": 5,
+      "nrr": "-0.01",
+      "points": 8,
+      "results": [
+        "win",
+        "win",
+        "lose",
+        "lose",
+        "lose"
+      ]
+    },
+    {
+      "id": "10",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png?20100406171959",
+      "country": "NED",
+      "matches": 10,
+      "won": 3,
+      "lost": 6,
+      "nrr": "-0.89",
+      "points": 6,
+      "results": [
+        "lose",
+        "win",
+        "win",
+        "lose",
+        "win"
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "id": "1",
+      "flag1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+      "flag2": "https://cdn.britannica.com/46/3346-050-DE92F66A/flag-symbolism-Pakistan-design-Islamic.jpg",
+      "team1": "IND",
+      "team2": "PAK",
+      "venue": "1th match , Wankhede Stadium Mumbai",
+      "time": "10:00 AM (UTC)",
+      "date": "Date: 15th May, 2024"
+    },
+    {
+      "id": "",
+      "flag1": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+      "flag2": "https://www.smallpatches.com/assets/Image/Product/detailsbig/Flags/World/BNG.jpg",
+      "team1": "NZ",
+      "team2": "BAG",
+      "venue": "2th match,Delhi-Arun Jaitley Stadium.",
+      "time": "1:00 PM (UTC)",
+      "date": "Date: 18th May, 2024"
+    },
+    {
+      "id": "3",
+      "flag1": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+      "flag2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+      "team1": "AUS",
+      "team2": "IND",
+      "venue": "3th match,Rajiv Gandhi International Stadium.",
+      "time": "1:00 PM (GMT)",
+      "date": "Date: 20th May, 2024"
+    },
+    {
+      "id": "4",
+      "flag1": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+      "flag2": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg",
+      "team1": "ENG",
+      "team2": "SA",
+      "venue": "4th match , Wankhede Stadium Mumbai",
+      "time": "1:00 PM (GMT)",
+      "date": "Date: 22th May, 2024"
+    },
+    {
+      "id": "5",
+      "flag1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+      "flag2": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+      "team1": "IND",
+      "team2": "ENG",
+      "venue": "2th match,Wankhede Stadium Mumbai",
+      "time": "1:00 PM (UTS)",
+      "date": "Date: 24th May, 2024"
+    }
+  ],
+  "T20": [
+    {
+      "id": "1",
+      "position": 1,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.png",
+      "pName": "Babar Azam",
+      "country": "pakistan",
+      "rating": 856
+    },
+    {
+      "id": "2",
+      "position": 2,
+      "photo": "https://cricketcult.com/static/c1e/client/90249/uploaded/f3b03169245215c3459326fbc551402a.webp",
+      "pName": "Suryakumar Yadav",
+      "country": "india",
+      "rating": 840
+    },
+    {
+      "id": "3",
+      "position": 3,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/324200/324245.png",
+      "pName": "Philip Salt",
+      "country": "ENGLAND",
+      "rating": 802
+    },
+    {
+      "id": "4",
+      "position": 4,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe5BLRzF8wdzHKFVfq1RI8lQumTUrJTF70WB-lemk_jw&s",
+      "pName": "Mohammad Rizwan",
+      "country": "pakistan",
+      "rating": 784
+    },
+    {
+      "id": "5",
+      "position": 5,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322067.png",
+      "pName": "Aiden Markram",
+      "country": "SOUTH AFRICA",
+      "rating": 734
+    },
+    {
+      "id": "6",
+      "position": 6,
+      "photo": "https://d1k8sn41pix00a.cloudfront.net/media/players/photos/yashasvi-jaiswal.jpg",
+      "pName": "Yashasvi Jaiswal",
+      "country": "india",
+      "rating": 701
+    },
+    {
+      "id": "7",
+      "position": 7,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316642.png",
+      "pName": "Jos Buttler",
+      "country": "ENGLAND",
+      "rating": 667
+    }
+  ],
+  "ODI": [
+    {
+      "id": "1",
+      "position": 1,
+      "photo": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/shubman-gill.png",
+      "pName": "Shubman Gill",
+      "country": "INDIA",
+      "rating": 824
+    },
+    {
+      "id": "2",
+      "position": 2,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.png",
+      "pName": "Babar Azam",
+      "country": "pakistan",
+      "rating": 801
+    },
+    {
+      "id": "3",
+      "position": 3,
+      "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png",
+      "pName": "Virat Kohli",
+      "country": "india",
+      "rating": 789
+    },
+    {
+      "id": "4",
+      "position": 4,
+      "photo": "https://image.thesportstak.com/images/players/cricket/71.webp",
+      "pName": "Devid Warner",
+      "country": "AUSTRALIA",
+      "rating": 767
+    },
+    {
+      "id": "5",
+      "position": 5,
+      "photo": "https://static.javatpoint.com/biography/images/rohit-sharma.png",
+      "pName": "Rohit Sharma",
+      "country": "india",
+      "rating": 745
+    },
+    {
+      "id": "6",
+      "position": 6,
+      "photo": "https://api.bdcrictime.com/Profile/dawid-malan-13_10_2023.jpg",
+      "pName": "Dawid Malan",
+      "country": "ENGLAND",
+      "rating": 654
+    },
+    {
+      "id": "7",
+      "position": 7,
+      "photo": "https://d1k8sn41pix00a.cloudfront.net/media/players/photos/yashasvi-jaiswal.jpg",
+      "pName": "Yashasvi Jaiswal",
+      "country": "india",
+      "rating": 601
+    }
+  ],
+  "TEST": [
+    {
+      "id": "1",
+      "position": 1,
+      "photo": "https://api.bdcrictime.com/Profile/kane-williamson-12_10_2023.jpg",
+      "pName": "Kane Williamson",
+      "country": "NEW ZEALAND",
+      "rating": 859
+    },
+    {
+      "id": "2",
+      "position": 2,
+      "photo": "https://static.indiatvnews.com/ins-web/images/joe-root-1541509796.jpg",
+      "pName": "Joe Root",
+      "country": "ENGLAND",
+      "rating": 823
+    },
+    {
+      "id": "3",
+      "position": 3,
+      "photo": "https://static.javatpoint.com/biography/images/rohit-sharma.png",
+      "pName": "Rohit Sharma",
+      "country": "india",
+      "rating": 745
+    },
+    {
+      "id": "4",
+      "position": 4,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.png",
+      "pName": "Babar Azam",
+      "country": "pakistan",
+      "rating": 701
+    },
+    {
+      "id": "5",
+      "position": 5,
+      "photo": "https://image.thesportstak.com/images/players/cricket/71.webp",
+      "pName": "Devid Warner",
+      "country": "AUSTRALIA",
+      "rating": 690
+    },
+    {
+      "id": "6",
+      "position": 6,
+      "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322067.png",
+      "pName": "Aiden Markram",
+      "country": "SOUTH AFRICA",
+      "rating": 734
+    }
+  ]
+}
